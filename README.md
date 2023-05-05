@@ -1,8 +1,9 @@
 ### Hi there, I'm Salman 👋
 
-<!--
+
 - [LinkedIn](https://www.linkedin.com/in/slmnzaheer/)
--->
+- [Website](https://www.salmanzaheer.com) 
+
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=salmanzaheer&show_icons=true&theme=radical">
 
