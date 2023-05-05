@@ -6,5 +6,6 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=salmanzaheer&show_icons=true&theme=radical">
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopher-yue&layout=compact">
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
 
