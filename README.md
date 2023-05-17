@@ -9,9 +9,6 @@
     <a href="https://www.linkedin.com/in/slmnzaheer">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/slmnzaheer">
-        <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
-    </a> 
 </p>
 
 ### Languages
