@@ -3,8 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Vladimir.<br>
-        Currently learning to walk in ML/DL without falling on my bottom.<br>
+        I'm Salman.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/slmnzaheer">
