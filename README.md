@@ -52,6 +52,6 @@
 
 <p align="center">
   <a href="https://github.com/salmanzaheer">
-    <img src="https://komarev.com/ghpvc/?username=salmanzaheer&color=blue&style=flat)" />
+    [![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanzaheer)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
