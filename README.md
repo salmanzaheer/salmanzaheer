@@ -50,8 +50,4 @@
 </p>
 </details>
 
-<p align="center">
-  <a href="https://github.com/salmanzaheer">
-    [![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanzaheer)](https://github.com/anuraghazra/github-readme-stats)
-  </a>
-</p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanzaheer&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
